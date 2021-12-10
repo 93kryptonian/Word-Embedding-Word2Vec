@@ -1,2 +1,3 @@
 # Word-Embedding-Word2Vec
-NLP
+
+Word Embedding using Word2Vec
